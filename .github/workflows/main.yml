@@ -30,4 +30,4 @@ jobs:
         with:
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: zhuoqiw/ros-opencv:4.5.2
+          tags: crazylin007/ros-opencv:4.5.2
